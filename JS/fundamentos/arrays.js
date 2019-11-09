@@ -17,3 +17,4 @@ delete valores[0]//deleta tal item do array
 console.log(valores)
 
 console.log(typeof valores)//array sao obj
+
